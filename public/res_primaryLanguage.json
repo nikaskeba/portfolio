@@ -9,7 +9,7 @@
         "experience": "Experience"
       }
     },
- "projects": [
+    "projects": [
       {
         "title": "AI Rezy",
         "startDate": "2023",
@@ -38,7 +38,7 @@
         "startDate": "2015",
         "description": "App created in both iOS and Android.",
         "images": [
-          "images/portfolio/costbrain/costbrain.png",
+          "images/portfolio/costbrain/costbrain.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -52,7 +52,6 @@
           }
         ]
       }
-
     ],
     "experience": [
       {
@@ -65,9 +64,8 @@
         "technologies": [
           "HTML",
           "JavaScript",
-          "Bootstrap",
+          "Bootstrap"
         ]
       }
-      
     ]
-  }
+}
