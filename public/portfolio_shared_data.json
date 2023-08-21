@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Nika Skeba",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/nikaskeba",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "facebook",
+          "url": "https://www.facebook.com/nskeba",
           "class": "fab fa-instagram"
         }
       ],
