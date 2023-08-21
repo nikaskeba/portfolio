@@ -9,14 +9,13 @@
         "experience": "Experience"
       }
     },
-    "projects": [
+ "projects": [
       {
         "title": "AI Rezy",
         "startDate": "2023",
         "description": "AI Resume craeator powered by wordpress.",
         "images": [
-          "images/portfolio/animal-shelter/airezy.png",
-        
+          "images/portfolio/animal-shelter/airezy.png"
         ],
         "url": "",
         "technologies": [
@@ -52,7 +51,7 @@
             "name": "JavaScript"
           }
         ]
-      },
+      }
 
     ],
     "experience": [
